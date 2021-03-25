@@ -6,3 +6,11 @@ Now that your network is trained, you might try an adversaria attack to it.
 Try the simple Fast Gradient Sign method, generating one (or more) adversarial examples starting from one (or more) CIFAR-10 test images. 
 It is up to you to decide if you want to implement the attack on your own or use one of the available libraries (e.g. foolbox,  CleverHans, ...). 
 Display the original image, the adversarial noise and the final adversarial example.
+
+
+
+# Midterm
+You can get a shour summery [here]()
+A review of the paper:
+
+Zhaofan Qiu, Ting Yao, Tao Mei, Learning Spatio-Temporal Representation with Pseudo-3D Residual Networks, arxiv.org/abs/1711.10305, Microsoft Research, Beijing, China, 2017
