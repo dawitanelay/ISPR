@@ -10,7 +10,7 @@ Display the original image, the adversarial noise and the final adversarial exam
 
 
 # Midterm
-
+# CNN for video processing
 A review of the paper:
 
 Zhaofan Qiu, Ting Yao, Tao Mei, Learning Spatio-Temporal Representation with Pseudo-3D Residual Networks, [https://arxiv.org/abs/1711.10305](), Microsoft Research, Beijing, China, 2017
